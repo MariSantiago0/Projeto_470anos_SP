@@ -10,3 +10,9 @@ Elaboraçaõ do projeto que comemora os 470 anos de São Paulo.
 ## Duplas responsáveis por cada fase
 - 1 & 2: 
 - 3 & 4:
+
+## Wiki
+- [Enredo]()
+- [Roteiro]()
+- [Personagens]()
+- [Fases]()
