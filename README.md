@@ -3,13 +3,13 @@ Elaboraçaõ do projeto que comemora os 470 anos de São Paulo, proporcionada pe
 
 ## Integrantes
 - Mariana Santiago Matos
-- Nickolas Garcia Franco Avelino
+- Nickolas Garcia Franco Avelino Lopes
 - Davi dos Santos Nascimento
 - Leonardo Macedo
 
 ## Duplas responsáveis por cada fase
-- 1 & 2: 
-- 3 & 4:
+- 1 & 2: Leonardo Macedo & Davi dos Santos Nascimento
+- 3 & 4: Mariana Santiago Matos & Nickola Garcia Franco Avelino Lopes
 
 ## Wiki
 - [Enredo](https://github.com/MariSantiago0/Projeto_470anos_SP/wiki/Enredo)
