@@ -13,6 +13,5 @@ Elaboraçaõ do projeto que comemora os 470 anos de São Paulo, proporcionada pe
 
 ## Wiki
 - [Enredo](https://github.com/MariSantiago0/Projeto_470anos_SP/wiki/Enredo)
-- [Roteiro]()
-- [Personagens]()
-- [Fases]()
+- [Personagens](https://github.com/MariSantiago0/Projeto_470anos_SP/wiki/Personagens)
+- [Fases](https://github.com/MariSantiago0/Projeto_470anos_SP/wiki/Fases)
