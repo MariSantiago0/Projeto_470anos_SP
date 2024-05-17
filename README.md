@@ -5,7 +5,8 @@ Elaboraçaõ do projeto que comemora os 470 anos de São Paulo, proporcionada pe
 - Mariana Santiago Matos
 - Nickolas Garcia Franco Avelino Lopes
 - Davi dos Santos Nascimento
-- Leonardo Macedo
+- Gustavo Rocillo
+- Cauã Silva
 
 ## Duplas responsáveis por cada fase
 - 1 & 2: Leonardo Macedo & Davi dos Santos Nascimento
