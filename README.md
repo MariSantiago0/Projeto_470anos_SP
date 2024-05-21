@@ -8,10 +8,6 @@ Elaboraçaõ do projeto que comemora os 470 anos de São Paulo, proporcionada pe
 - Gustavo Rocillo
 - Cauã Silva
 
-## Duplas responsáveis por cada fase
-- 1 & 2: Leonardo Macedo & Davi dos Santos Nascimento
-- 3 & 4: Mariana Santiago Matos & Nickola Garcia Franco Avelino Lopes
-
 ## Wiki
 - [Enredo](https://github.com/MariSantiago0/Projeto_470anos_SP/wiki/Enredo)
 - [Personagens](https://github.com/MariSantiago0/Projeto_470anos_SP/wiki/Personagens)
