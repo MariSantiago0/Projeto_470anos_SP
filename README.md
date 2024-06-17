@@ -5,7 +5,7 @@ Elaboraçaõ do projeto que comemora os 470 anos de São Paulo, proporcionada pe
 - Mariana Santiago Matos
 - Nickolas Garcia Franco Avelino Lopes
 - Davi dos Santos Nascimento
-- Gustavo Rocillo
+- Gustavo henrique
 - Cauã Silva
 
 ## Wiki
