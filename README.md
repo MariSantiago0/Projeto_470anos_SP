@@ -14,7 +14,7 @@ Elaboraçaõ do projeto que comemora os 470 anos de São Paulo, proporcionada pe
 - [Fases](https://github.com/MariSantiago0/Projeto_470anos_SP/wiki/Fases)
 
 ### Cenas unity
-- [Fase 1](https://github.com/MariSantiago0/Projeto_470anos_SP/wiki/Fase-1)
+- [Fase 1](https://github.com/MariSantiago0/Projeto_470anos_SP/wiki/Fase-1) Feita por Mariana Santiago e Gustavo Rocillo
 - [Fase 3](https://github.com/MariSantiago0/Projeto_470anos_SP/wiki/Cena-Fase-3) Feita por Cauã Silva e Davi dos Santos
 - [Fase 5](https://github.com/MariSantiago0/Projeto_470anos_SP/wiki/fase-5) Feita por Nickolas Garcia
-- 
+  
