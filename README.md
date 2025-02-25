@@ -1,5 +1,5 @@
 # Projeto_470anos_SP
-Elaboraçaõ do projeto que comemora os 470 anos de São Paulo, proporcionada pela escola ETEC Professor Basilides de Godoy - Ensino Médio com Habilitação Profissional Técnico em Programação de Jogos Digitais | Turma 3ºA de 2024.
+Elaboração do projeto que comemora os 470 anos de São Paulo, proporcionada pela escola ETEC Professor Basilides de Godoy - Ensino Médio com Habilitação Profissional Técnico em Programação de Jogos Digitais | Turma 3ºA de 2024.
 
 ## Integrantes
 - Mariana Santiago Matos
